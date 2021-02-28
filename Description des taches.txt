@@ -5,3 +5,5 @@ Repartition des taches
 3- Fabienne Janvier creation de la balle et brique
 4- Jean-Bertrand Frotzner Leon creation et arrangement du mainframe, gameobjet et Elementtext2D 
 
+Merci.
+
